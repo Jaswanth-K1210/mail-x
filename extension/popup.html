@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body {
+            width: 350px;
+            padding: 20px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f8f9fa;
+        }
+
+        h2 {
+            color: #2c3e50;
+            text-align: center;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        input {
+            padding: 10px;
+            border: 1px solid #ced4da;
+            border-radius: 5px;
+        }
+
+        button {
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            background-color: #0d6efd;
+            color: white;
+            transition: 0.3s;
+        }
+
+        button:hover {
+            background-color: #0b5ed7;
+        }
+
+        button#logout {
+            background-color: #dc3545;
+            display: none;
+            margin-top: 10px;
+        }
+
+        .status-card {
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            display: none;
+            text-align: center;
+        }
+
+        .status-active {
+            color: #198754;
+            font-weight: bold;
+        }
+
+        .status-inactive {
+            color: #6c757d;
+            font-weight: bold;
+        }
+
+        .spinner {
+            display: none;
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #3498db;
+            border-radius: 50%;
+            width: 20px;
+            height: 20px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto;
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        #message {
+            text-align: center;
+            font-size: 12px;
+            margin-top: 10px;
+            color: red;
+        }
+
+        .guide-link {
+            text-align: center;
+            font-size: 11px;
+            margin-top: -10px;
+        }
+
+        a {
+            color: #6c757d;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>🤖 AI Email Agent</h2>
+
+    <div class="container" id="loginForm">
+        <input type="email" id="email" placeholder="Gmail Address" />
+        <input type="password" id="app_password" placeholder="App Password (16 chars)" />
+        <div class="guide-link"><a href="#" id="helpLink">How to get App Password?</a></div>
+        <input type="text" id="api_key" placeholder="OpenRouter API Key (sk-or-...)" />
+        <button id="loginBtn">Connect Agent</button>
+    </div>
+
+    <div class="status-card" id="statusCard">
+        <p>Logged in as: <span id="userDisplay" style="font-weight:bold"></span></p>
+        <p>Status: <span id="statusText">...</span></p>
+
+        <div style="font-size:12px; color:#555; margin: 10px 0; text-align: left; padding-left: 10px;">
+            <p>⏱️ Last Check: <span id="lastRun">Never</span></p>
+            <p>🔜 Next Check: <span id="nextRun">--</span></p>
+        </div>
+
+        <div style="display:flex; justify-content:center; align-items:center; gap:5px; margin-bottom:10px;">
+            <label style="font-size:12px;">Check every:</label>
+            <select id="intervalSelect" style="padding:5px;">
+                <option value="1">1 min (Active)</option>
+                <option value="15">15 mins</option>
+                <option value="30" selected>30 mins</option>
+                <option value="60">60 mins</option>
+            </select>
+            <button id="saveSettings" style="padding:5px; font-size:10px; width:auto;">Save</button>
+        </div>
+
+        <button id="toggleBtn">Stop Agent</button>
+        <button id="logout">Logout</button>
+    </div>
+
+    <div class="spinner" id="spinner"></div>
+    <div id="message"></div>
+
+    <script src="popup.js"></script>
+</body>
+
+</html>

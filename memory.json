@@ -1,0 +1,1564 @@
+[
+  {
+    "timestamp": "2025-12-30T07:45:04.742956",
+    "email_text": "i am having trouble logging into my account. can you help me reset my password?",
+    "intent": "General",
+    "confidence": 0.0,
+    "generated_reply": "<s> [OUT] Subject: Re: Account Login Assistance\n\nDear [User],\n\nThank you for reaching out. We\u2019re sorry to hear you\u2019re having trouble logging in. To assist you with resetting your password, please follow these steps:\n\n1. Visit our login page and click on \u201cForgot Password.\u201d\n2. Enter your registered email address.\n3. Follow the instructions in the email we\u2019ll send you.\n\nIf you continue to experience issues, please let us know, and we\u2019ll be happy to assist further.\n\nBest regards,\nAI Agent"
+  },
+  {
+    "timestamp": "2025-12-30T07:45:28.232204",
+    "email_text": "i am having trouble logging into my account. can you help me reset my password?",
+    "intent": "Support Query",
+    "confidence": 1.0,
+    "generated_reply": "Subject: Request for Password Reset - Account Login Issue\n\nDear User,\n\nThank you for reaching out to us. I understand that you are experiencing difficulties logging into your account and require assistance with resetting your password.\n\nI apologize for any inconvenience this may have caused and assure you that we are here to help. Our technical team will investigate the issue and work to resolve it as quickly as possible.\n\nIn the meantime, to facilitate a speedier resolution, please follow the steps below to reset your password:\n\n1. Navigate to the login page on our website.\n2. Click on the 'Forgot Password' link.\n3. Enter the email address associated with your account and follow the prompts to reset your password.\n\nIf you continue to encounter issues or if the above steps do not resolve your problem, please reply to this email with your account details and a brief description of the problem you are experiencing. Our team will then be able to provide further assistance.\n\nWe appreciate your patience and understanding in this matter.\n\nBest Regards,\nAI Agent\n[Your Company Name] Support Team"
+  },
+  {
+    "timestamp": "2025-12-30T08:11:29.467885",
+    "sender": "googlecommunityteam-noreply@google.com",
+    "subject": "Your Google Account is live \u2013 now help your business grow",
+    "email_text": "JASWANTH, welcome to Google\r\n\r\nNow you can start growing your business.\r\n\r\nManage my profile  \r\n<https://business.google.com/create?en&gmbsrc=IN-en-et-em-z-gmb-z-l~wlcem%7Ccreate&trk=https%3A%2F%2Fnot",
+    "intent": "General",
+    "confidence": 0.0,
+    "generated_reply": ""
+  },
+  {
+    "timestamp": "2025-12-30T08:11:38.125723",
+    "sender": "noreply@autodesk.com",
+    "subject": "Verify your Autodesk account",
+    "email_text": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\"\r\n xmlns:v=\"urn:schemas-microsoft-c",
+    "intent": "General",
+    "confidence": 0.0,
+    "generated_reply": "Thank you for your email. We have received your message and will review it promptly. Please let us know how we can assist you further. Best regards, AI Agent"
+  },
+  {
+    "timestamp": "2025-12-30T08:15:58.164755",
+    "sender": "info@freepik.com",
+    "subject": "You're one click away from great designs",
+    "email_text": "To view this email as a web page, go to the link below, or copy and paste it into your browser's address window.\r\nhttps://view.email-freepik.com/?qs=a700784dba04049a72d141ac0227652a651a1aff10b3946e77a",
+    "intent": "General",
+    "confidence": 0.95,
+    "generated_reply": "[SKIPPED BY USER] Thank you for your email. How can we assist you today? Best regards, AI Agent"
+  },
+  {
+    "timestamp": "2025-12-30T08:16:04.659129",
+    "sender": "info@freepik.com",
+    "subject": "Go from meh design to great design",
+    "email_text": "To view this email as a web page, go to the link below, or copy and paste it into your browser's address window.\r\nhttps://view.email-freepik.com/?qs=8be238f222364afbe1414dd5f27821c0da1e82caf9fb67a8da0",
+    "intent": "General",
+    "confidence": 0.9,
+    "generated_reply": "[SKIPPED BY USER] <s>"
+  },
+  {
+    "timestamp": "2025-12-30T08:16:13.068581",
+    "sender": "info@freepik.com",
+    "subject": "The one action that makes a difference",
+    "email_text": "To view this email as a web page, go to the link below, or copy and paste it into your browser's address window.\r\nhttps://view.email-freepik.com/?qs=4de90e91c0bfc84c498cab1a4ec9856eb22b871388645c9f1bf",
+    "intent": "General",
+    "confidence": 0.9,
+    "generated_reply": "[SKIPPED BY USER] <s> [OUT] Thank you for your email. How can we assist you today? Please let us know if you have any questions or need further information.\n\nBest regards,\nAI Agent"
+  },
+  {
+    "timestamp": "2025-12-30T08:20:56.224086",
+    "sender": "mail@email.adobe.com",
+    "subject": "Get started with Creative Cloud",
+    "email_text": "",
+    "intent": "General",
+    "confidence": 0.0,
+    "generated_reply": "[SKIPPED BY USER] Thank you for your email. I am currently out of the office and will be back on [date]. If your matter is urgent, please contact [name] at [email] or [phone number]. Otherwise, I will respond to your email upon my return. Thank you for your patience."
+  },
+  {
+    "timestamp": "2025-12-30T08:21:04.226755",
+    "sender": "mail@email.adobe.com",
+    "subject": "What can you make with your trial today?",
+    "email_text": "",
+    "intent": "General",
+    "confidence": 0.0,
+    "generated_reply": "[SKIPPED BY USER] Thank you for your email. We appreciate your interest in our company. How can we assist you today?\n\nAI Agent"
+  },
+  {
+    "timestamp": "2025-12-30T08:33:34.304705",
+    "sender": "mail@email.adobe.com",
+    "subject": "Tips and techniques to supercharge your creativity",
+    "email_text": "<!DOCTYPE html>\r\n\r\n\r\n\r\n\r\n\r\n\r\n  \r\n<html xmlns=\"https://www.w3.org/1999/xhtml\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\">\r\n<head>\r\n<link rel=\"icon\" href=\"",
+    "intent": "Promotional/Notification",
+    "confidence": 0.95,
+    "generated_reply": "N/A (Classification Only)"
+  },
+  {
+    "timestamp": "2025-12-30T08:33:36.197094",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Learn how to turn failure into success",
+    "email_text": "And save $ on textbooks this semester \n( https://links.chegg.com/f/a/KPu-tXA2tpqAUHXPLn-i1g~~/AAQRxQA~/RgRnfUwwP0Q3aHR0cHM6Ly93d3cuY2hlZ2cuY29tL2dlbmVyYWxwb2xpY2llcy8_bGlkPTk3aGxveTgyb3N6N1cDc3BjQgplm",
+    "intent": "Promotional/Notification",
+    "confidence": 0.95,
+    "generated_reply": "N/A (Classification Only)"
+  },
+  {
+    "timestamp": "2025-12-30T08:33:38.105602",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "All new. All in one place. Better than ever.",
+    "email_text": "24/7 homework help, now powered by AI\n\n\n( https://links.chegg.com/f/a/R4Ny_WClEiwq3fMAH_VbkA~~/AAQRxQA~/RgRngQ-NP0Q3aHR0cHM6Ly93d3cuY2hlZ2cuY29tL2dlbmVyYWxwb2xpY2llcy8_bGlkPXZhZDk2d3l4MDF2aFcDc3BjQgpl",
+    "intent": "Promotional/Notification",
+    "confidence": 0.95,
+    "generated_reply": "N/A (Classification Only)"
+  },
+  {
+    "timestamp": "2025-12-30T08:33:40.949289",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Start this semester with trusted expert help",
+    "email_text": "Quick tips you shouldn\u2019t miss \n( https://links.chegg.com/f/a/Z4pxMHZPwt1fVhxMIDNQPg~~/AAQRxQA~/RgRnmPxhP0Q3aHR0cHM6Ly93d3cuY2hlZ2cuY29tL2dlbmVyYWxwb2xpY2llcy8_bGlkPW00bHQ3bTRsdzM4blcDc3BjQgplsWJ3tmU_E",
+    "intent": "Promotional/Notification",
+    "confidence": 0.95,
+    "generated_reply": "N/A (Classification Only)"
+  },
+  {
+    "timestamp": "2025-12-30T08:33:42.531441",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Get homework help from experts",
+    "email_text": "Learn to learn with Chegg \n( https://links.chegg.com/f/a/yTFpQPCja0oiUe2TBhPl_Q~~/AAQRxQA~/RgRnoj9dP0Q3aHR0cHM6Ly93d3cuY2hlZ2cuY29tL2dlbmVyYWxwb2xpY2llcy8_bGlkPWZqNTQwNWN1ZjVxcVcDc3BjQgplul26v2VwHaKtU",
+    "intent": "General",
+    "confidence": 0.0,
+    "generated_reply": "N/A (Classification Only)"
+  },
+  {
+    "timestamp": "2025-12-30T08:33:44.595717",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Make your mental health a priority",
+    "email_text": "Student Mental Health Week is almost here   Chegg.com \n( https://links.chegg.com/f/a/jc1QdkhPohRnVut3_lXLuA~~/AAQRxQA~/RgRnq3RqP0QnaHR0cHM6Ly93d3cuY2hlZ2cuY29tLz9saWQ9bHdwc282NnJqa3NyVwNzcGNCCmXDau_IZ",
+    "intent": "Promotional/Notification",
+    "confidence": 0.95,
+    "generated_reply": "N/A (Classification Only)"
+  },
+  {
+    "timestamp": "2025-12-30T08:33:46.949023",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Resume tips to get you that internship",
+    "email_text": "Plus, get help on your tough homework \n( https://links.chegg.com/f/a/pM2qaNeDl2TlFt3UA7XrDQ~~/AAQRxQA~/RgRntKbtP0Q3aHR0cHM6Ly93d3cuY2hlZ2cuY29tL2dlbmVyYWxwb2xpY2llcy8_bGlkPWRraTZubDJlZDg3b1cDc3BjQgplz",
+    "intent": "Promotional/Notification",
+    "confidence": 0.95,
+    "generated_reply": "N/A (Classification Only)"
+  },
+  {
+    "timestamp": "2025-12-30T08:33:50.942634",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Prioritize self-care for Student Mental Health Week",
+    "email_text": "Get wellness tips and FREE tools to combat stress\n\n\n( https://links.chegg.com/f/a/suPsgODX1o_9XdXv6x2v-g~~/AAQRxQA~/RgRnvwjUP0Q3aHR0cHM6Ly93d3cuY2hlZ2cuY29tL2dlbmVyYWxwb2xpY2llcy8_bGlkPW5pbjg0eGZ6YWF6",
+    "intent": "Promotional/Notification",
+    "confidence": 0.95,
+    "generated_reply": "N/A (Classification Only)"
+  },
+  {
+    "timestamp": "2025-12-30T08:36:53.539877",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Jaswanth, don\u2019t miss our TikTok LIVE study sesh and Q&A",
+    "email_text": "Get midterms math help from @WallaceSTEM\n\u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:36:53.995267",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Prep for exams with expert help",
+    "email_text": "Study tools for your learning style.    Chegg.com \n( https://links.chegg.com/f/a/B1V25SjOo7LDPYWZgJIi9A~~/AAQRxQA~/RgRn0EekP0QnaHR0cHM6Ly93d3cuY2hlZ2cuY29tLz9saWQ9d2ZnNml1bTYzbm9oVwNzcGNCCmXqpMLtZQiLT",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:36:54.906820",
+    "sender": "hello@support.studytogether.com",
+    "subject": "Welcome to Study Together",
+    "email_text": "<!DOCTYPE html>\r\n<html\r\n  xmlns:v=\"urn:schemas-microsoft-com:vml\"\r\n  xmlns:o=\"urn:schemas-microsoft-com:office:office\"\r\n  lang=\"en\"\r\n>\r\n  <head>\r\n    <title></title>\r\n    <meta http-equiv=\"Content-Typ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:36:56.358308",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Jaswanth, you deserve a treat after class",
+    "email_text": "Get FREE perks from DoorDash, Prezi, and Calm\n\n\n( https://links.chegg.com/f/a/aRIW6XKjzgZvGeQyEeNS1g~~/AAQRxQA~/RgRn3EyqP0Q3aHR0cHM6Ly93d3cuY2hlZ2cuY29tL2dlbmVyYWxwb2xpY2llcy8_bGlkPTY5c2I2ZDAyM24xalcD",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:36:56.812194",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Say yes to ultra-productivity",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=te584e8f8,fcda3154,bf751131&e=cDE9JTQwTXhFOVpLWVlqR1RGZ1hCRHUlMkJFQ2pnQWIwSm81TyUyRnN3NCUyRkw3Q1NHUVNkayUzRA&s=IeublwzCxTCnDoZ46LFaUrsiLjm-hcetoe",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:36:57.282912",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Change is easy",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=tef2737a3,fcdac718,bf763245&e=cDE9JTQwUiUyRkpnMDYyRHUzSmpjS2pzQVBnaG95eGZVbkklMkJiSENiVlFpUG5FVXUwYnclM0Q&s=BWb4TgZTxzU-DlWWyeTgoFADNb4EEOxbyS4w8",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:36:58.199166",
+    "sender": "mail@mail.adobe.com",
+    "subject": "We play well together",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t84aaa9e7,fce4447c,bf78d599&e=cDE9JTQwRXFPdlRTdTRVeDQ1S2EydFpLa2kzNVhiYU9BOE9Ed2Y1diUyRjZZcDJaUk9jJTNE&s=I7jHQVHvQfuWhQLRZH9E3Yv0Y-w64uYtLtYe7kPS",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:36:58.657303",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Break down your homework with step-by-step AI solutions",
+    "email_text": "Plus, get expert-supported study help now \n( https://links.chegg.com/f/a/gVqVJ8smQW-ItcBl8X4HwQ~~/AAQRxQA~/RgRn9S-mP0Q3aHR0cHM6Ly93d3cuY2hlZ2cuY29tL2dlbmVyYWxwb2xpY2llcy8_bGlkPW1hczkweTB4cDlqdFcDc3BjQ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:36:59.105874",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Strike the right chord with a PDF",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t95d920d1,fced0f04,bf7cb93d&e=cDE9JTQwSDRxeVAyRTRPJTJGVyUyRkpCeUFqYnNsZkZZSktNbTJ0SXFYdWlVeWhYclpzS0UlM0Q&s=8-a_E1QxywQHTW6kgqOvzi4Tv6_IcW1WC7Tu9",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:36:59.577943",
+    "sender": "contact@programiz.pro",
+    "subject": "Welcome to Programiz PRO!",
+    "email_text": "Hi there,\r\nWe're delighted to have you on board!\r\n\r\nYou can now join us in interactive learning, and solving real-world challenges to test your understanding of programming.\r\n\r\nGet Started with PRO ( ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:00.042388",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Jaswanth, apply for the $100,000 Global Student Prize ",
+    "email_text": "Applications are open\n\u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:01.028025",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Open, fill, sign, and send",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=ta63cdeff,fcf48a28,bf7e71ab&e=cDE9JTQwc1c1Q0hxdUNiMFpyOHhvQkRaNHVOUmNEVVpZN3o4dkFqQWNGeUkzJTJCJTJCOFElM0Q&s=17EFcWPBIh26ssMlMdfcFSYOhplb0AbwQVFEV",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:01.476605",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Send and sign in seconds",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=taaa99e39,fcf6f325,bf7fd669&e=cDE9JTQwSnA0bWtXZ3dPJTJGRzNzQ01wTGxrJTJCY0V0Mk1uQW9kYjg1YlBTeEl1JTJCSWhkMCUzRA&s=Rw8-z2reBkja7fNNti_skyvtCtSr1t54Ay",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:01.934900",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Password protect your PDFs \ud83d\udd10",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=tcdd2bef4,fd00eea9,bf837113&e=cDE9JTQwRjdYeUpmMiUyQnVwQng4cTUzaHAzMkclMkJ3Q2N2MlRhc0xLYmpKV3Q1WXRQNXclM0Q&s=oJVeoitNNfTCT6j4k6UWtsOK8lhO-cJX3Oo4E",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:02.427541",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Freaking over finals? We\u2019ve got your back.",
+    "email_text": "Your questions, answered. You\u2019re welcome. \n( https://links.chegg.com/f/a/n408-HV0-wgKxVhwlO-KHg~~/AAQRxQA~/RgRoB6lbP0Q3aHR0cHM6Ly93d3cuY2hlZ2cuY29tL2dlbmVyYWxwb2xpY2llcy8_bGlkPWd6eTI5MTBvNnVuYVcDc3BjQ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:03.347912",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Chat with your documents",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=td9f0f6cb,fcfcfe0e,bf84ca5d&e=cDE9JTQwSFFpTkhuJTJCZUY5UkY2eWlSVVZudyUyQmFiayUyQnZvNTUxamtWb1V0NjFoTlduMCUzRA&s=32BMpqwc8De5Lz7lECtqzbdEsQJq7pJK-b",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:03.799335",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Join our TikTok LIVE finals study sesh",
+    "email_text": "Plus, find solutions in a snap\n\u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:04.255454",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Stand out from the crowd",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=tecccea3d,fd08d71f,bf86a97b&e=cDE9JTQwVHZ1aE5ETWlZcVNUalFtM0pnbEI2RDlNa1ZGM1pGa084R3o3SDVGdTRWUSUzRA&s=CFi3bRGW8tyPFgkaU-Dt7Su1IBE19TJcXIbAAsBhEF",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:04.726151",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Jaswanth, all the perks you need for finals\u2014on us! ",
+    "email_text": "Get deals from Doordash, Calm & more\n\n\n( https://links.chegg.com/f/a/gqojNFDOwZYrmoWrdYMViw~~/AAQRxQA~/RgRoE7gGP0Q3aHR0cHM6Ly93d3cuY2hlZ2cuY29tL2dlbmVyYWxwb2xpY2llcy8_bGlkPXZlNWVoMDQxaXV0Y1cDc3BjQgpmK",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:05.189931",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Jaswanth, still have questions? Don't miss out on expert help!",
+    "email_text": "Prepare for finals with virtual office hours.\n\u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:05.652193",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "It\u2019s not too late. Get the study help you need.",
+    "email_text": "Let\u2019s cross the finish line together \n( https://links.chegg.com/f/a/HmyLvGFrqUfLlWzvoMHfhw~~/AAQRxQA~/RgRoG3MIP0Q3aHR0cHM6Ly93d3cuY2hlZ2cuY29tL2dlbmVyYWxwb2xpY2llcy8_bGlkPTVpZjZlbGU1cnIzcVcDc3BjQgpmMw",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:06.118478",
+    "sender": "mail@mail.adobe.com",
+    "subject": "All your tax docs, nice and neat",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t95047e9,fd166863,bf8ab521&e=cDE9JTQwVDhnZTAwWlBlTGJob3FrNlBwQW50Smd5NVptdWpYNlduTmg5WlRwTFklMkZNJTNE&s=CLQyEnmUHdK9s90KtOkx880Y-_QPvmY0EX0C_JX8_",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:06.563041",
+    "sender": "aniruddh@codechef.com",
+    "subject": "40% off ends in a day",
+    "email_text": "<!doctype html><html xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" lang=\"en\"><head><title></title><meta http-equiv=\"Content-Type\" content=\"text/html; charse",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:07.022907",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Organisation feels so good",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t25454cc6,fd1d7898,bf8d8b9b&e=cDE9JTQwSWM0S3Bvano3VWhRc3FuJTJCNGNNWjdQQlhFbTVnTzFCUElBSDJZb1pvRHVJJTNE&s=iCmKJNXkVFHR2W97yW2cmF5VAJONBfFThBcqBkmN",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:07.473096",
+    "sender": "support@edurev.in",
+    "subject": "Email verification koppisettyjaswanth@gmail.com | Welcome to EduRev",
+    "email_text": "<html>  <head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /></head><body><img src='https://www.google-analytics.com/collect?v=1&t=event&tid=UA-47866345-1&cs=edurev_email_SocialS",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:09.316457",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Keep work in motion with Adobe Acrobat AI Assistant",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t35cb7ef4,fd219f16,bf8f7241&e=cDE9JTQwWTVUMVZLeEI5bW5nSjJxUnZMdCUyRiUyQmk0UUpvWmRMbTVqRzRHbXZPNmU2cVUlM0Q&s=2w10TUwrYQaC_r9bqTDBmNveXiYFjHVplBvRY",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:09.765091",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Your mobile office solution",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t41edbdfc,fd25e3a3,bf90ec8b&e=cDE9JTQwc1hLaTBIZDhZbiUyQlMwSDNDYlNKSFVNMENQVFpyNUpRREsySVNIMTliMFF3JTNE&s=Gq9NTPpI5RtM6kn1bT_Aq7y9TaQgtxpJWpUOEGbW",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:10.216661",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Jaswanth, FREE perks (with a side of study help)",
+    "email_text": "Summer session is on! Subscribe & get covered.\n\n\n( https://links.chegg.com/f/a/imW8SCEEKciLk0G71CHMSA~~/AAQRxQA~/RgRoL1nvP0Q3aHR0cHM6Ly93d3cuY2hlZ2cuY29tL2dlbmVyYWxwb2xpY2llcy8_bGlkPWNsaWNxY2NmcmY1NVc",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:10.687132",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Jaswanth, take the heat off your summer studies",
+    "email_text": "Learn what you need to know, fast \n( https://links.chegg.com/f/a/oCL4IUhj9mnH3w-nwhp8Vg~~/AAQRxQA~/RgRoNcnRP0Q3aHR0cHM6Ly93d3cuY2hlZ2cuY29tL2dlbmVyYWxwb2xpY2llcy8_bGlkPTZrY3E5eWdpamJqZ1cDc3BjQgpmRtFEU",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:11.161150",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Do it all on desktop, mobile or web",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t55c3ed64,fd316201,bf9554cf&e=cDE9JTQwc0lZVUxBRG8zNFhkeEZjbm1RNyUyQmp6aWFPRXpIeXJORTJDTnZGbjgwZHJjJTNE&s=QSjQeYBaDCdlevXpIVMHNPxHalERfHcSZXQuQSl3",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:14.002650",
+    "sender": "mail@mail.adobe.com",
+    "subject": "All your tax docs, nice and neat",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t6d935fe9,fd39a233,bf989b27&e=cDE9JTQwcEM2OEclMkYzVGtWV01PUzlaT21heVFLbUZRSXltZ2Y2azdPaCUyQiUyQnM4NkNoQSUzRA&s=DGzULchD-8eo0Ts2gLMC6irAt5UFkiaDhf",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:14.495002",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Gather comments in one doc",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t6d5ff7d,fd439644,bf9c5055&e=cDE9JTQwNmZoMWJJZlp0b0JwQ3RpcldmRHphWFFvVkd2V1lPaFlRQm9Va3AxVXFkUSUzRA&s=xPqZUJiZx0cUt7TqSuaB2W4uk4QWpk8eWHYWC_9Ec4I",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:14.953545",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Summer school + FREE perks = FUN",
+    "email_text": "Subscribe for all the best benefits\n\n\n( https://links.chegg.com/f/a/SGKAvwhh-2Y-AEa0RQiORg~~/AAQRxQA~/RgRoSDzmP0Q3aHR0cHM6Ly93d3cuY2hlZ2cuY29tL2dlbmVyYWxwb2xpY2llcy8_bGlkPTRqYm5zMnJ2MXgyNlcDc3BjQgpmYu",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:15.412601",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Make filling out forms feel better",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t13db577c,fd49900a,bf9e508f&e=cDE9JTQwTmZ6ZkhDYTQ5SWNxdmhzU3pUaHJKUHFRb2c5ViUyRm40ZVdkcmRuZVNmMnlFJTNE&s=uIsEuZ2ODqNnPGGIQfrNj_UdSvnqNRwOWyPHF_eC",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:16.361568",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Easily scan and edit your documents",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t1c8049b9,fd4b235a,bfa06169&e=cDE9JTQwR0hnaVJ1dkdkajkyamdxd0pjMEhSdENNZnNKWXdON3k2Vk9LYnZoZHNIcyUzRA&s=ZadVpK0SeKeKZOg5ahvFL_0MKtE2N7W0X5A3MAEWm3",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:16.824280",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Become a Chegg Creator & earn \ud83d\udcb0",
+    "email_text": "Get paid to inform & inspire your peers\n\n\n( https://links.chegg.com/f/a/YxUxaErGGcheVtMi71_sXQ~~/AAQRxQA~/RgRoUw8AP0Q3aHR0cHM6Ly93d3cuY2hlZ2cuY29tL2dlbmVyYWxwb2xpY2llcy8_bGlkPWJnY3BtejFpcTJsdVcDc3BjQg",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:18.205094",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Unlimited access to Acrobat AI Assistant until June 28",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t3aafcbcc,fd4f6727,bfa2504d&e=cDE9JTQwT1lZTzRPUjRlYXBLWGNJTiUyRjFXZG9TSlJoS3pqVURvSWl6Ym9QNzBFVWpNJTNE&s=7kg1j0vegkj0k8XriJzkV516hJAu_JsvSzs7HcqE",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:22.527233",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Micro, small and medium-sized enterprises day",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t46b8c09b,fd58b1da,bfa4109b&e=cDE9JTQwWXBOc3hvSVJuNU1iZmQxY1ZhZDN4OHIyZVM0OFIweWt5ZExSMENKYzl5SSUzRA&s=m5CBxEzBNnGCWvMl6X6lrlpoGG-7w5FZYq7qROHMsJ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:24.788645",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "It\u2019s nice to meet you \ud83d\udc4b\ud83c\udffe",
+    "email_text": "Before you get started, we thought we should introduce ourselves.  \u200c \u200c \u200c \u200c \u200c \u200c \r\n\u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \r\n\u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:25.733358",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Learn a new skill with FREE perks",
+    "email_text": "From language to design, we\u2019ve got you \n( https://links.chegg.com/f/a/wJQU1iPyFeyZ5nqoqxtjkA~~/AAQRxQA~/RgRoXDTJP0Q3aHR0cHM6Ly93d3cuY2hlZ2cuY29tL2dlbmVyYWxwb2xpY2llcy8_bGlkPTF1OHV0N2JzaXN4cFcDc3BjQgpm",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:27.566392",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "Complete your first lesson \u2014 it\u2019s quick",
+    "email_text": "See just how easy it is to follow our step-by-step instructions and start \r\ncoding in minutes. \r\n\r\n\r\n <> \r\n\r\n\r\n\r\nIt's easier than you think.\r\n\r\n\r\n\r\n\r\n We promise. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nOur custom Learni",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:28.026666",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Don\u2019t wait \u2014 chat with your docs today",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t5643ffca,fd5bbc32,bfa5da9d&e=cDE9JTQwYXJZaVdkOEphOFM4RkRtd3UlMkZxSWolMkJuYXNMSldaZzk1dlY1c0FOTmRPdWslM0Q&s=pfueDCE0YgkjovhgTBLfQFdFsa6fPMgXHGTdF",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:31.744098",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "Are you ready for the next step?",
+    "email_text": "Here\u2019s how to tell when you\u2019re ready for the next level of learning.  \u200c \u200c \u200c \u200c \u200c \r\n\u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \r\n\u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:33.570957",
+    "sender": "announcements@figma.com",
+    "subject": "Updates to our terms for AI",
+    "email_text": "We recently announced a beta for AI features in Figma Design. In this email, we\r\nare sharing our approach to building AI\r\n[https://www.figma.com/ai/our-approach/?utm_source=figma&utm_medium=email&utm_",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:35.817620",
+    "sender": "mail@mail.adobe.com",
+    "subject": "PDF editing made easy",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t66b228bb,fd64ab3a,bfa871af&e=cDE9JTQwRDdneWRyMEJnS08wTllVJTJCUHNsZUxQMnlyT0lPVEdWQWJZSGQ0dVRkeVdNJTNE&s=2MfvJjXYfNnmXrOEYIuN8fyKrZ6ZTZ6rUthw3Nf6",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:40.569726",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Finish summer session strong",
+    "email_text": "Our AI study tools help make learning easier \n( https://links.chegg.com/f/a/3jgAwqKtLVZ_DRAFhFL3xA~~/AAQRxQA~/RgRobSXYP0Q3aHR0cHM6Ly93d3cuY2hlZ2cuY29tL2dlbmVyYWxwb2xpY2llcy8_bGlkPTNzajBhMHh6ZXMza1cDc3",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:41.040807",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Put the perfect PDF together on your phone",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t714df175,fd696423,bfaae563&e=cDE9JTQwYW9IbnF5TUt4WVcySXlnREhlZzg1bWdBJTJGcUk1RjBFN3h1b25ITU51QUNBJTNE&s=ePLawIdpXAvQAi99CQkx6uWy-K85LBpqF1r_qKLW",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:41.501111",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "July newsletter: Free time = opportunity",
+    "email_text": "Build soft skills, learn OpenAI API coding, and more.  \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:41.966801",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "Free event: How professional skills take your career to the next level",
+    "email_text": "How do professional skills help your career? Find out with our latest Q&A.  \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:42.420319",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Deliver a simple signing experience",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t5b6afe0,fd742f6a,bfaddc5b&e=cDE9JTQwZ2xVNTd2OXBqS1BXJTJCWEt6d3BLbVRQRGxQWmJoRjZXTkZXZlNRV2d2dEJvJTNE&s=rrPJLFv28ommZnBG0GPhpSlxlSeza1foOzs32n7j5",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:44.723459",
+    "sender": "hackers@hackerrankmail.com",
+    "subject": "You signed up for 2nd year set - 1",
+    "email_text": "HackerRank - Signup for 2nd year set - 1   \r\n\r\n|  \r\n\r\n|  \r\n\r\n|  \r\n  ![HackerRank Logo](http://email.postmaster.hackerrankmail.com/c/eJxM0bt2okAAgOGnwS6euXErKEIEXRUMw01pcoaZiSjDZWFcEp9-T5o92_3F1_3Ccy2L",
+    "intent": "General",
+    "confidence": 0.5,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:45.235940",
+    "sender": "hackers@hackerrankmail.com",
+    "subject": "You signed up for 2nd year set - 1",
+    "email_text": "HackerRank - Signup for 2nd year set - 1   \r\n\r\n|  \r\n\r\n|  \r\n\r\n|  \r\n  ![HackerRank Logo](http://email.postmaster.hackerrankmail.com/c/eJxM0U1zojAAgOFfg7c6-ULMgcNaDa674DYlSeXSCSQVJHwUUKy_fqeXnb29h-f2mpCu",
+    "intent": "General",
+    "confidence": 0.5,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:45.716484",
+    "sender": "ravikant@codechef.com",
+    "subject": "Learn -> Practice -> Test -> Repeat for Success!",
+    "email_text": "<!doctype html><html xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" lang=\"en\"><head><title></title><meta http-equiv=\"Content-Type\" content=\"text/html; charse",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:46.186532",
+    "sender": "mail@mail.adobe.com",
+    "subject": "It's tax season \u2013 let's get organised",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t1174ee8b,fd79a99d,bfaf7193&e=cDE9JTQwSjFUU0xGVm8yZFlRZU5pTlJJSm5Va1RZMngzbENRbFVra2h6UDZicXpEdyUzRA&s=3ZOsVxF9P0cFxk8bS62onwWqN_ybtlQjLCrf7ZCSNB",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:47.108358",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Become a Chegg Creator & earn \ud83d\udcb0",
+    "email_text": "Get paid to inform & inspire your peers\n\n\n( https://links.chegg.com/f/a/QtXQahJLLNArPT1iFj8eEw~~/AAQRxQA~/RgRoep3UP0Q3aHR0cHM6Ly93d3cuY2hlZ2cuY29tL2dlbmVyYWxwb2xpY2llcy8_bGlkPWttNzk0NTd3bGgyMVcDc3BjQg",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:47.565443",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "Register now for our front-end bootcamp",
+    "email_text": "Get step-by-step guidance in this virtual 10-week session.  Get step-by-step \r\nguidance in this virtual 10-week session. \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:37:49.402617",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Use PDF tools in Microsoft apps",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t21893740,fd80b508,bfb34c87&e=cDE9JTQwbnp2T0Vpa2JnUVo5bFh1NmVBMTZ3MERwSlo5UFFMQzFCaTF6S0VaVEtFdyUzRA&s=nrl4uSlmNOr_ombc9q-r_s1Jc2kEMl7ry18TW7H6Co",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:32.252376",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "Dive back into Hello World",
+    "email_text": "code cademy Just 5 minutes of learning right now can get you back on track. \r\n\r\n\r\n\r\n Sometimes, having a big goal can be a bit overwhelming. But if you take it \r\none step at a time, we promise you\u2019ll ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:32.706786",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "Last chance to save on Pro",
+    "email_text": "Don\u2019t miss your chance to get a full year of Pro for less!  \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:33.153823",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "Last few days to register for our front-end bootcamp",
+    "email_text": "Get step-by-step guidance while you learn for just \u20b94,999  Get step-by-step \r\nguidance in this virtual 10-week session. \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:34.498807",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Chat with your documents",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t3d74f156,fd8b8e04,bfb82436&e=cDE9JTQwY1ZZUzBCSXo2VyUyQiUyQjdOQnpWUFclMkZrbmd5Qjh1eWdDWWxiREloRlFoNzhRcyUzRA&s=xVEnRmwk60B2E9wHhkPYdjTGU7SsZx45tU",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:38.105764",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "Consider this entry-level tech job",
+    "email_text": "The top programming language for learning, code at the Olympics, and more.  \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:42.135965",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Save time and reuse your best content",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t51e2dba4,fd937627,bfbb7787&e=cDE9JTQwTE5oc1BqcFF6SE4lMkZ2am1GaUVtcGZxVGxTVTBRYyUyQjV2ODJBeWhFN2liUDQlM0Q&s=ZcmiVkmuTpSQuzzSZT4EAXREn5kzrCeQAQlc-",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:43.041495",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Get 20% off study help this semester",
+    "email_text": "Plus, how to build the perfect daily routine \n( https://links.chegg.com/f/a/z0SQLVz6UKkpVda88OTNSg~~/AAQRxQA~/RgRok21IP0Q3aHR0cHM6Ly93d3cuY2hlZ2cuY29tL2dlbmVyYWxwb2xpY2llcy8_bGlkPTE0dzZpcnk3ejVzOFcDc3",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:44.383814",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "Earn XP and visualize your progress",
+    "email_text": "Join the challenge and see your skills grow with our newest feature.  \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:44.844576",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "August newsletter: Earn XP and join the World Coding Games",
+    "email_text": "Introducing new ways to track your progress and stay motivated. Introducing new \r\nways to track your progress and stay motivated. \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:45.300234",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Attend MAX Online \u2013 creativity unites us all",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t605173dc,fd9abd6f,bfbd87af&e=cDE9JTQwVUdnYjdFRnk1a1Juc2ZFblFHYkNXTEwlMkJmWTc4RUc2elBqT043WEI1eHo0JTNE&s=Q1jrNNksAprhweVKy5_y92i9FO1QNIblj47GbDbt",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:46.193548",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Maximise PDF collaboration with Acrobat Pro",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t63d433f9,fd9b1790,bfbe20bd&e=cDE9JTQwTGpCbnpSMk83aUJvZDBNYXd1TDJxYm1KaTFWUUVrUkFsUXVGR21CcVBydyUzRA&s=kDCFGP9rpXGCiTadqbTCnjXumDqUgX0dJZKzvHqJGE",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:47.106220",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "Day four: Eyes on the prize",
+    "email_text": "Earn XP \u2014 win cool prizes.  \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:47.548765",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Come back & get your study help ",
+    "email_text": "Expert explanations at any hour!\n\u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:48.090358",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Jaswanth, GET THIS DEAL: Stream The Kardashians For $1.99/mo.",
+    "email_text": "All Your Favorites for Just $1.99/mo. \n( https://links.chegg.com/f/a/b-2b240qO1JubvtkFxKfoA~~/AAQRxQA~/RgRol5w_P0Q3aHR0cHM6Ly93d3cuY2hlZ2cuY29tL2dlbmVyYWxwb2xpY2llcy8_bGlkPWRxZzk4azMwdzR4dFcDc3BjQgpmq",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:49.936793",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Way more features to do way more things",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t6e721214,fd9ff14f,bfc059e3&e=cDE9JTQwMVhhT1NRYWVjUjRYYkpZM0U4dlU3YzdHbGZTUkFyWWZWeU5NTVJ3SnFuOCUzRA&s=AHKHC-PPUDETQVcqNo0MrB02D1_s8Mfo6AVKtccSgz",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:50.387591",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "Celebrate 13 years of learning \u2014 save 50% on Pro",
+    "email_text": "Save on a year of guided career paths and more.  \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:52.208652",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "NEW: Free cybersecurity courses",
+    "email_text": "Learn how to protect yourself or your company online.  \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:52.654873",
+    "sender": "mail@mail.adobe.com",
+    "subject": "No more printing of contracts just for signing",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t7ea6d398,fda8383e,bfc3143d&e=cDE9JTQwcEFvZ1NjVXFvcnVhalhaZkcxeXNMRmJQT2hOMFVXTHZkQmxRS2JHR1V0dyUzRA&s=3L3g1Yc9BpT2Vlt26-EyPS3P4AQr3dpdJduMv3lIP7",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:53.536250",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Still have questions? ",
+    "email_text": "We still have explanations\n\u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:54.442495",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "50% OFF PRO | Don't miss our anniversary sale \ud83c\udf8a",
+    "email_text": "Join Pro today and start learning more efficiently.  \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:55.808068",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Step it up from the start this semester",
+    "email_text": "Plus, get your spaces set up for success \n( https://links.chegg.com/f/a/QkCgXcNhu6jYTkyme8ScwQ~~/AAQRxQA~/RgRopIT5P0Q3aHR0cHM6Ly93d3cuY2hlZ2cuY29tL2dlbmVyYWxwb2xpY2llcy8_bGlkPXlpYnY3dXFnamxzelcDc3BjQg",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:56.252686",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Pitch perfect PDFs",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=td3be43e,fdab6af2,bfc4d2d7&e=cDE9JTQwV1E4VTJtRmc2RzZLbDNWdUlKVHp2Yk9ZYUpBUDZYRkw2YUhjcWZpaXo0MCUzRA&s=GLJboT0W2e8f17qw4ljL1sMygGSAugD0CbhEc_5hEwo",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:57.175614",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "50% off Pro ends tomorrow",
+    "email_text": "There's still time to save 50% on Pro.  \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:58.616515",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "It's your last chance to save on Pro",
+    "email_text": "Don\u2019t miss your chance to get a full year of Pro for less!  \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:59.071459",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Now live: MAX 2024 Luminary Speaker lineup",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t10e84a97,fdacf8d5,bfc4ee39&e=cDE9JTQwY3I3eVlUdThaNWRjdUZWOTlmbUdyJTJGNngwWkc0NVdUQm5iNmoyYlZrUVpvJTNE&s=xUGLBcfGfhU3uH1RZLhOFakwaSIP87RWtRKicz4B",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:41:59.962815",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "Be the face of Codecademy and earn up to \u20b91 lac!",
+    "email_text": "Join the Codecademy Student Leader Program and learn real-world skills while \r\nearning exciting rewards. \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:42:00.875247",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "Does HTML/CSS count as coding?",
+    "email_text": "Why you still haven\u2019t heard back from that hiring manager, a programmer\u2019s guide \r\nto math, and more.  \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:42:01.322795",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Preserve the quality of your work \ud83d\udcaf",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t20f4ec43,fdb4aa2b,bfc7ac55&e=cDE9JTQwOSUyRiUyQnlOcWozdEVYOFpXaWp5bHV2OGtnSEQ1bXVLU0hPb0c2Q1lNS0Z3enMlM0Q&s=wF29Bh7eezF4kAr3HqJWnUgKVVdxrQCjfVQ-r",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:42:03.559767",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Get 20% off a Chegg subscription",
+    "email_text": "Plus, TikTok tips for decorating your dorm \n( https://links.chegg.com/f/a/p0mnR3Yk0IOdPpnN9QPoIA~~/AAQRxQA~/RgRorcOwP0Q3aHR0cHM6Ly93d3cuY2hlZ2cuY29tL2dlbmVyYWxwb2xpY2llcy8_bGlkPTR0aWw2Z2Zta3c5YVcDc3Bj",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:42:04.019840",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Bring your files to order",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t21a698dd,fdb4e760,bfc7d2bb&e=cDE9JTQwaHdjcDlUZmNONFRYN2EzSUNxQWhvU1NqOVZMZHFFMDhreDRDWTVyJTJCcWVnJTNE&s=xPImfa16cV0vu1bHZ61pEFEvdoVGnrbszNl2c_Fe",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:42:06.295388",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "We'd love to hear from you",
+    "email_text": "Help us shape the future of Codecademy by completing a survey.  \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \r\n\u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \r\n\u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:42:07.202993",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Life is full of files - give organisation a comeback",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t341fe46d,fdbd2479,bfcb7765&e=cDE9JTQwZ2hyYU1qWVByaEpreXRwZDAxeXpnNEtNSTZKM21JcVV0Smh4MGZhRWZ0QSUzRA&s=A-s35YyTqyA4nagGYQY-wdiXf3_p2m-5tZf8TopWY9",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:42:09.604204",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Stay ahead this semester with study help",
+    "email_text": "Plus, get step-by-step homework solutions \n( https://links.chegg.com/f/a/37gexm9A4tc8Ni_4BKVzLw~~/AAQRxQA~/RgRotwEeP0Q3aHR0cHM6Ly93d3cuY2hlZ2cuY29tL2dlbmVyYWxwb2xpY2llcy8_bGlkPXAyNmVpejExZ2hnYVcDc3BjQ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:42:10.138291",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Preserve the quality of your work \ud83d\udcaf",
+    "email_text": "View web version:\r\nhttps://t-info.mail.adobe.com/r/?id=t3c4b3157,fdbea435,bfccd7bb&e=cDE9JTQwNTJyR09tYjZVNGtzREZUWFp3QlByJTJCbmZBbmxFdXF1ZnFaSFRDbFNodEVnJTNE&s=ZuRjYsuhBryjCP9W4_Spg2ZIoXx-UpfH_7nO1Cmt",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:42:10.598682",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "Last few days to apply for Codecademy Student Leader",
+    "email_text": "Join the Codecademy Student Leader Program and learn real-world skills while \r\nearning exciting rewards up to \u20b91 lac.  \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:42:12.924414",
+    "sender": "chegg@emails.chegg.com",
+    "subject": "Get Hulu\u2019s Student Deal NOW",
+    "email_text": "$1.99/mo for All your Favorites \n( https://links.chegg.com/f/a/iU_MLNEv5XzMQq0-qD4DZw~~/AAQRxQA~/RgRouzPnP0Q3aHR0cHM6Ly93d3cuY2hlZ2cuY29tL2dlbmVyYWxwb2xpY2llcy8_bGlkPXcxd2oyeGlzdnJsZVcDc3BjQgpmz-eu2GZ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:42:13.842849",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "September newsletter: School's back in session",
+    "email_text": "Find a partner for your next project, tips for students, and more.  Find a \r\npartner for your next project, tips for students, and more. \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:42:14.854712",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "Codecademy values your feedback",
+    "email_text": "Complete a survey about how you learn with Codecademy.  \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \r\n\u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \r\n\u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:47:59.080563",
+    "sender": "jaswanthkoppisetty@gmail.com",
+    "subject": "hey man",
+    "email_text": "hi man how are you? long time haa",
+    "intent": "General",
+    "confidence": 0.5,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:47:59.765320",
+    "sender": "subscribe@in.jooble.org",
+    "subject": "\ud83e\udd29 Still searching? Better job can be 1 click away",
+    "email_text": "Found a job?If so, we congratulate you! However, if you are still looking for a job and open to review new job postings, Jooble has found the most relevant ones for your searches.\r\n\r\n    Internships\r\n",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:48:00.240322",
+    "sender": "hello@mail.grammarly.com",
+    "subject": "New tone detected\u2014take a peek!",
+    "email_text": "Grammarly  Plus, check out how you sounded to readers last week. \u200c \u200c \u200c \u200c \u200c \u200c \u200c \n\u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \n\u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:48:01.245586",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "Sale extended \u2014 50% off Pro",
+    "email_text": "\ud83d\udc4b This one's for the procrastinators.  \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:48:02.279000",
+    "sender": "onlinecourses@nptel.iitm.ac.in",
+    "subject": "NPTEL Newsletter: Dec 2025: Vol 6: Week 4!",
+    "email_text": "NPTEL NEW\r\n\r\n<https://nptel.ac.in/>\r\n\u00ad\r\n\r\n*Strengthen Physics Fundamentals with NPTEL*\r\n\r\nNPTEL Physics courses cover core concepts and advanced topics. Learn from\r\nIIT faculty, strengthen your fundam",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:48:03.673145",
+    "sender": "newsletter@mobbin.com",
+    "subject": "Monday Mobile Drop",
+    "email_text": "New mobile apps on Mobbin this week. Featuring AllTrails, Hatch Sleep, Binance, and 3\r\nmore.\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:48:04.129972",
+    "sender": "updates@unstop.email",
+    "subject": "TATA Crucible Campus Quiz 2025 | Feedback",
+    "email_text": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n\r\n<head>\r\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\r\n    <title>General<",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:48:05.095668",
+    "sender": "product@email.meetup.com",
+    "subject": "Sneak peek: Here\u2019s what\u2019s coming to Meetup in 2026",
+    "email_text": "Ready for even more meaningful\r\nMeetup experiences? \r\n\r\n\r\nMeetup      body, table, td, a { font-family: Arial, sans-serif\r\n!important; }    \r\nmeetup logo \r\n( http://clicks.meetup.com/ls/click?upn=u001",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:48:06.056490",
+    "sender": "news@sfmc.edx.org",
+    "subject": "What are you doing this holiday break?",
+    "email_text": "&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwn",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:48:06.507798",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "Last chance: 50% off",
+    "email_text": "Our end-of-year sale ends soon.  \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Rule-based Classification)"
+  },
+  {
+    "timestamp": "2025-12-30T08:51:57.232351",
+    "sender": "subscribe@in.jooble.org",
+    "subject": "Jooble. Found a job?",
+    "email_text": "Found a job?If so, we congratulate you! However, if you are still looking for a job and open to review new job postings, Jooble has found the most relevant ones for your searches.\r\n\r\n    Internships\r\n",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:51:59.047793",
+    "sender": "jobs-listings@linkedin.com",
+    "subject": "Swiggy is hiring a Junior Software Engineer",
+    "email_text": "Top job picks for you:     https://www.linkedin.com/comm/jobs/collections/recommended?origin=JYMBII_EMAIL&lgCta=eml-jymbii-bottom-see-all-jobs&lgTemp=jobs_jymbii_digest&lipi=urn%3Ali%3Apage%3Aemail_jo",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:52:00.494775",
+    "sender": "demetrios@news.mlops.community",
+    "subject": "The 2025 Recap: Part 2 - The era of the Coldplay meme",
+    "email_text": "Shop ( https://go.mlops.community/NL_Shop?utm_campaign=Year+in+Review+Part+2&utm_content=Weekly+Newsletter&utm_medium=IwYUFSQWLR0QHCcEOx4FCzkNCA4JBCQJZgoLCA&utm_source=customer.io )\u00a0// View Online ( h",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:52:00.974638",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "Don't miss our end-of-year sale",
+    "email_text": "The clock is ticking to get 50% off.  \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:52:02.366234",
+    "sender": "info@updates.upgrad.com",
+    "subject": "Unlock Career Growth in 2026 with AI & Data",
+    "email_text": "<!DOCTYPE html><html xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" lang=\"en\"><head><title></title><meta http-equiv=\"Content-Type\" content=\"text/html; charse",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:52:02.830263",
+    "sender": "welcome@openrouter.ai",
+    "subject": "Embedding and Multi-modal models",
+    "email_text": "OpenRouter\r\n\r\nOpenRouter ( https://openrouter.ai/?utm_campaign=Welcome+Email+Campaign+%232&utm_content=MultiModal-email&utm_medium=email_action&utm_source=customer.io )\r\n\r\nHi\u00a0JASWANTH,\r\n\r\nOpenRouter o",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:52:03.291293",
+    "sender": "communications@news.apilayer.com",
+    "subject": "\u23f0 Last Call! Your 50% Discount Is About to Expire\u23f0",
+    "email_text": "<https://app.news.apilayer.com/e/er?s=608&lid=76847&elqTrackId=162B19B925700547E494EA4721D5D69E&elq=1226590613a6469f865194684566a3fb&elqaid=59836&elqat=1&elqak=8AF5F1FE7B03C85CF5A6D22C9BD1DC42ADFA6E15",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:52:05.143023",
+    "sender": "meetup-group-lqecjxrh-announce@email.meetup.com",
+    "subject": "eChai Hyderabad Startup Network: eChai Startup Demo Day, Hyderabad | Sat, 27 Dec \u00b7 6 pm - 8 pm \u00b7 CoKarma Durgam Cheruvu",
+    "email_text": "<p>We are hosting the December edition of eChai Startup Demo Day in Hyderabad on Saturday, 27th December, from 6 pm - 8 pm.</p><p><br class=\"ProseMirror-trailingBreak\"></p><p>>> Venue: CoKarma Durgam ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:52:58.392849",
+    "sender": "jaswanthkoppisetty@gmail.com",
+    "subject": "hey man",
+    "email_text": "hi man how are you? long time haa",
+    "intent": "General",
+    "confidence": 0.5,
+    "generated_reply": "<s> [B_INST] Hello, it's been a while. Thank you for reaching out. How can we assist you today? Best regards, AI Agent [/B_INST]"
+  },
+  {
+    "timestamp": "2025-12-30T08:52:59.416809",
+    "sender": "welcome@openrouter.ai",
+    "subject": "Tool calling that just works",
+    "email_text": "OpenRouter\r\n\r\nOpenRouter ( https://openrouter.ai/?utm_campaign=Welcome+Email+Campaign+%232&utm_content=ToolCalling-email&utm_medium=email_action&utm_source=customer.io )\r\n\r\nHi\u00a0JASWANTH,\r\n\r\nTool calls ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:53:00.061500",
+    "sender": "jobs-listings@linkedin.com",
+    "subject": "SR INDIA is hiring a Python Developer Intern",
+    "email_text": "Top job picks for you:     https://www.linkedin.com/comm/jobs/collections/recommended?origin=JYMBII_EMAIL&lgCta=eml-jymbii-bottom-see-all-jobs&lgTemp=jobs_jymbii_digest&lipi=urn%3Ali%3Apage%3Aemail_jo",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:53:25.695108",
+    "sender": "info@thesmartbridge.com",
+    "subject": "Build & Innovate with GenAI: Hack-N-Go with MongoDB Hackathon",
+    "email_text": "<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><title>Hack-N-Go Hackathon with MongoDB</title><script src=\"https://cdn",
+    "intent": "Support Query",
+    "confidence": 0.9,
+    "generated_reply": "[SKIPPED BY USER] p:0 0 24px 0;\"></div></header><p style=\"font-size:16px;line-height:1.5;color:#475569;margin:0 0 24px 0;\">We are excited to announce the <strong>Hack-N-Go with MongoDB</strong> hackathon, a 48-hour virtual event where you can showcase your skills and win exciting prizes. The hackathon will take place from <strong>10th to 12th August 2024</strong>.</p><p style=\"font-size:16px;line-height:1.5;color:#475569;margin:0 0 24px 0;\">Join us and collaborate with like-minded individuals to build innovative solutions using MongoDB. Register now and be a part of this thrilling experience!</p><p style=\"font-size:16px;line-height:1.5;color:#475569;margin:0 0 24px 0;\">For any questions or support, please feel free to reach out to us at <a href=\"mailto:mongodbhackathon@smartinternz.com\" style=\"color:#00684A;text-decoration:underline;\">mongodbhackathon@smartinternz.com</a>.</p><p style=\"font-size:16px;line-height:1.5;color:#475569;margin:0 0 24px 0;\">Best regards,<br>The SmartInternz Team</p></td></tr></table></td></tr></table></body></html>\n\nDear [Recipient's Name],\n\nThank you for reaching out regarding the Hack-N-Go with MongoDB hackathon. We appreciate your interest and will investigate your query promptly.\n\nBest regards,\nAI Agent"
+  },
+  {
+    "timestamp": "2025-12-30T08:53:26.284631",
+    "sender": "info@updates.upgrad.com",
+    "subject": "Masterclass Alert - Set your AI roadmap for the year ahead",
+    "email_text": "<!DOCTYPE html><html xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" lang=\"en\"><head><title></title><meta http-equiv=\"Content-Type\" content=\"text/html; charse",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:53:27.545722",
+    "sender": "newsletter@mobbin.com",
+    "subject": "Wednesday Web Drop",
+    "email_text": "New web apps on Mobbin this week. Featuring Revolut Business, Graphite, Dovetail, and 1\r\nmore.\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:53:33.143293",
+    "sender": "hello@mail.wispr.ai",
+    "subject": "Your Flow Pro access ends soon \u23f3",
+    "email_text": "Flow Logo ( https://wisprflow.ai/ )\r\n\r\n*****************************\r\nYour Flow Pro trial ends soon\r\n*****************************\r\n\r\nHey JASWANTH,\r\n\r\nYou\u2019ve been flowing without limits on a Flow Pro ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:53:36.989515",
+    "sender": "welcome@openrouter.ai",
+    "subject": "Comparing different models with the same prompt",
+    "email_text": "OpenRouter\r\n\r\nOpenRouter ( https://openrouter.ai/?utm_campaign=Welcome+Email+Campaign+%232&utm_content=ModelDiscovery-email&utm_medium=email_action&utm_source=customer.io )\r\n\r\nHi\u00a0JASWANTH,\r\n\r\nPicking ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:57:42.361750",
+    "sender": "jaswanthkoppisetty@gmail.com",
+    "subject": "yea",
+    "email_text": "its been a while hows life i wanna connect with you over something can we\r\nschedule a meet over sometime soon",
+    "intent": "Meeting Request",
+    "confidence": 0.9,
+    "generated_reply": "<s>"
+  },
+  {
+    "timestamp": "2025-12-30T08:57:43.838670",
+    "sender": "news@sfmc.edx.org",
+    "subject": "Build new skills and unlock more career opportunities",
+    "email_text": "&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwn",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:57:44.316920",
+    "sender": "support@devpost.com",
+    "subject": "\u2019Tis still the season for shipping: $100k for Gemini 3 + 4 tools to try",
+    "email_text": "\u2019Tis the Season for Side Projects & Shipping: Final 2025 Sprints, $100k Gemini 3 Hackathon, and your Holiday Survival Kit.\r\n\r\nDevpost Weekly Newsletter\r\n\r\nHey Builders,\r\n\r\nThis is our last newsletter ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:57:45.229551",
+    "sender": "demetrios@news.mlops.community",
+    "subject": "The 2025 Recap: Part 1 - \"Was that really this year?\"",
+    "email_text": "Shop ( https://go.mlops.community/NL_Shop?utm_campaign=Year+in+Review+Part+1&utm_content=Weekly+Newsletter&utm_medium=IwYUFSQWLR0QHCcEOx4FCzkNCA4JBCQJZgoLCA&utm_source=customer.io )\u00a0// View Online ( h",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:57:46.627998",
+    "sender": "hi@mail.cursor.com",
+    "subject": "Your Year in Code",
+    "email_text": "Thanks for using Cursor in 2025!\r\n\r\nWe\u2019ve created a personal summary of how you used Cursor this year: which models you used most, how many tab completions and agent messages, and how you compare with",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:57:47.088603",
+    "sender": "welcome@openrouter.ai",
+    "subject": "How does OpenRouter pricing work?",
+    "email_text": "OpenRouter\r\n\r\nOpenRouter ( https://openrouter.ai/?utm_campaign=Welcome+Email+Campaign+%232&utm_content=Pricing-email&utm_medium=email_action&utm_source=customer.io )\r\n\r\nHi\u00a0JASWANTH,\r\n\r\nYou can buy Ope",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:57:47.540156",
+    "sender": "info@updates.upgrad.com",
+    "subject": "\ud83d\udea8 New Year Scholarships Are Live Now! Limited-Time Benefit Inside",
+    "email_text": "<!DOCTYPE html><html xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" lang=\"en\"><head><title></title><meta http-equiv=\"Content-Type\" content=\"text/html; charse",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:57:48.024605",
+    "sender": "communications@news.apilayer.com",
+    "subject": "\ud83d\udd57Times Running Out On 50% OFF!",
+    "email_text": "<https://app.news.apilayer.com/e/er?s=608&lid=76847&elqTrackId=5E531E00FC02AF76A06D3F7D52C0A46B&elq=bf67e4e9df04402199bda1e7de21e696&elqaid=59835&elqat=1&elqak=8AF5144CBAC1FF03C3BB42B4A1D63F873EDFF2F7",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:57:48.504287",
+    "sender": "info@naukri.com",
+    "subject": "Your Profile is not visible to recruiters",
+    "email_text": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n   <head>\r\n      <meta http-equi",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:57:49.418360",
+    "sender": "hello@mail.grammarly.com",
+    "subject": "Your productivity is soaring",
+    "email_text": "Grammarly  Take a peek at last week\u2019s progress. \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \n\u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \n\u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:57:50.805620",
+    "sender": "demetrios@news.mlops.community",
+    "subject": "Our AI/ML Practitioner\u2019s Guide to GPUs",
+    "email_text": "Hey Jaswanth,\r\n\r\nA few months ago, I asked for a deep research report on GPU providers and how they differ.\u00a0\r\n\r\nWhat came back was garbage.\u00a0\r\n\r\nSo after six months of research, I put together V1 of th",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:57:51.270235",
+    "sender": "onlinecourses@nptel.iitm.ac.in",
+    "subject": "Welcome to NPTEL Online Course : Machine Learning, ML",
+    "email_text": "<div style=\"text-align: justify;\">Dear Learner</div><div style=\"text-align: justify;\"><br></div><div style=\"text-align: justify;\">Welcome to SWAYAM-NPTEL Online Courses and Certification!</div><div st",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T08:57:51.731824",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "Your\u00a050% off\u00a0is waiting",
+    "email_text": "Save on your 2026 career growth with our end-of-year sale.  \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T09:02:50.157120",
+    "sender": "jaswanthkoppisetty@gmail.com",
+    "subject": "yea",
+    "email_text": "its been a while hows life i wanna connect with you over something can we\r\nschedule a meet over sometime soon",
+    "intent": "Meeting Request",
+    "confidence": 0.9,
+    "generated_reply": "Dear [Recipient's Name],\n\nI hope this message finds you well. It's indeed been some time since we last connected. I am more than happy to catch up with you.\n\nI propose we schedule a meeting for next Tuesday, March 15, at 3 PM your time. If this time does not suit your schedule, please let me know your preferred time, and I will do my best to accommodate it.\n\nLooking forward to our conversation.\n\nBest regards,\nAI Agent"
+  },
+  {
+    "timestamp": "2025-12-30T09:03:02.956823",
+    "sender": "jaswanthkoppisetty@gmail.com",
+    "subject": "hey man",
+    "email_text": "hi man how are you? long time haa",
+    "intent": "General",
+    "confidence": 0.5,
+    "generated_reply": "Hello,\n\nThank you for reaching out. I'm glad to hear from you after some time. If there's anything specific you need assistance with at the moment, please let me know. I'm here to help.\n\nBest regards,\nAI Agent"
+  },
+  {
+    "timestamp": "2025-12-30T09:03:03.687513",
+    "sender": "newsletter@mobbin.com",
+    "subject": "Monday Mobile Drop",
+    "email_text": "New mobile apps on Mobbin this week. Featuring Hers, Flighty, Digg, and 3\r\nmore.\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0\u200c\u200b\u200d\u200e\u200f\ufeff\u00a0",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T09:03:05.333101",
+    "sender": "onlinecourses@nptel.iitm.ac.in",
+    "subject": "NPTEL Newsletter: Dec 2025: Vol 6: Week 3!",
+    "email_text": "NPTEL NEW\r\n\r\n<https://nptel.ac.in/>\r\n\u00ad\r\n\r\n*NPTEL-GATE 2026 Mock Test Series*\r\n\r\nGATE 2026 aspirants can now register for the NPTEL-GATE mock test series.\r\nTest your preparation and identify improvemen",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T09:03:05.797165",
+    "sender": "hello@smartinterviews.in",
+    "subject": "Lost Coding Consistency? Start Fresh on Jan 1st with the 21 Days Coding Challenge",
+    "email_text": "Hey\u00a0Jaswanth Koppisetty,\u00a0\r\n-----------------------------\r\n\r\n\r\nLet\u2019s be honest - coding isn\u2019t hard because of concepts.\r\n\r\nIt\u2019s hard because\u00a0consistency slips, college happens, exams pile up, and befor",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T09:03:06.280104",
+    "sender": "welcome@openrouter.ai",
+    "subject": "Protecting your data: logging and training policies",
+    "email_text": "OpenRouter\r\n\r\nOpenRouter ( https://openrouter.ai/?utm_campaign=Welcome+Email+Campaign+%232&utm_content=Logging-email&utm_medium=email_action&utm_source=customer.io )\r\n\r\nHi\u00a0JASWANTH,\r\n\r\nOpenRouter neve",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T09:03:06.800885",
+    "sender": "communications@news.apilayer.com",
+    "subject": "\ud83d\udcf0 How Are Your Competitors Using Mediastack?\ud83d\udcf0",
+    "email_text": "<https://app.news.apilayer.com/e/er?s=608&lid=76845&elqTrackId=C566964A674AB680C76A4E6A0FDB9523&elq=6c0cfa1ba46a4c9aa3de1471a96d30ee&elqaid=59834&elqat=1&elqak=8AF524F0EE8DBBFDB744562EDC71E9846BD141DB",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T09:03:07.758861",
+    "sender": "info@updates.upgrad.com",
+    "subject": "\ud83d\udea8 New Year scholarships start tomorrow, claim yours now!",
+    "email_text": "<!DOCTYPE html><html xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" lang=\"en\"><head><title></title><meta http-equiv=\"Content-Type\" content=\"text/html; charse",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T09:03:08.242233",
+    "sender": "mail@mail.adobe.com",
+    "subject": "Happy Holidays from the Adobe team \ud83c\udf81\ud83c\udf84",
+    "email_text": "View web version:\r\nhttps://t3.mail.adobe.com/r/?id=t6a0089c8-91ae-48f0-9cc4-a3fe10988097,dd9cce0,12c04d&e=cDE9JTQwdUM0N1BHd3gzMURlaTltc3NaaW5MTmVjazNHb0kwVThVZm45dHhRbVpmM3A0UHRNUGFtb2l2WW5xWDJ0VG5sb3",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T09:03:08.712766",
+    "sender": "info@naukri.com",
+    "subject": "Upload your resume/CV",
+    "email_text": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\"><head>\r\n<meta http-equiv=\"Content-",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T09:03:09.182317",
+    "sender": "marketing@engage.canva.com",
+    "subject": "Your 2025 recap, done in a few clicks.",
+    "email_text": "Try these trending\r\nvideo templates, \r\nJaswanth\r\n.( https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9lV_yD0Uk56xsgm07ieZgmO0vhaiy9sqcbJOeIEKMrBmzT-kmqweYAf-rsLiDs8nSQxc55m1Bvu2ZcrKTG5V_8sjlnh",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T09:03:09.658443",
+    "sender": "news@sfmc.edx.org",
+    "subject": "Gift someone a new hobby this holiday",
+    "email_text": "&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwn",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T09:03:10.612934",
+    "sender": "welcome@openrouter.ai",
+    "subject": "Uptime optimization at no extra cost",
+    "email_text": "OpenRouter\r\n\r\nOpenRouter ( https://openrouter.ai/?utm_campaign=Welcome+Email+Campaign+%232&utm_content=Routing-email&utm_medium=email_action&utm_source=customer.io )\r\n\r\nHi\u00a0JASWANTH,\r\n\r\nProviders have ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T09:03:11.100918",
+    "sender": "communications@news.apilayer.com",
+    "subject": "Welcome Aboard! \u2014 Unlock Real-Time News Feeds at 50% Off! \ud83d\udcf0\ud83c\udf81",
+    "email_text": "<https://app.news.apilayer.com/e/er?s=608&lid=76845&elqTrackId=5D4DD276C917FC302AF4BCBB37FA4615&elq=9778257a40c8460e814f0cfdaac47344&elqaid=59833&elqat=1&elqak=8AF513B63EF7E591BE440A3FBF301056B7D3EDED",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T09:12:05.214523",
+    "sender": "jaswanthkoppisetty@gmail.com",
+    "subject": "yea",
+    "email_text": "its been a while hows life i wanna connect with you over something can we\r\nschedule a meet over sometime soon",
+    "intent": "Meeting Request",
+    "confidence": 0.9,
+    "generated_reply": "Dear Jaswant Koppisetty,\n\nIt's great to hear from you. I'd be happy to schedule a meeting. Please let me know your availability, and we can find a convenient time to connect.\n\nBest regards,\nAI Agent"
+  },
+  {
+    "timestamp": "2025-12-30T09:12:06.316670",
+    "sender": "cassie@devpost.com",
+    "subject": "Accelerate Innovation with Google Cloud Hackathon Partners",
+    "email_text": "( http://devpost.com )\r\n\r\n\r\n\r\n\r\n\r\nHey JASWANTH,\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nBased on your interests and activity, we think you'll love the AI Partner Catalyst: Accelerate Innovati",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T09:12:07.285938",
+    "sender": "cassie@devpost.com",
+    "subject": "HACKATHONS just for you, JASWANTH",
+    "email_text": "( http://devpost.com )\r\n\r\n\r\n\r\n\r\n\r\nHey JASWANTH,\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nSince you've shown interest in previous challenges from this company, we wanted to le",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T09:12:09.598576",
+    "sender": "welcome@openrouter.ai",
+    "subject": "Welcome to OpenRouter",
+    "email_text": "OpenRouter\r\n\r\nOpenRouter ( https://openrouter.ai/?utm_campaign=Welcome+Email+Campaign+%232&utm_content=Welcome-email&utm_medium=email_action&utm_source=customer.io )\r\n\r\nHi\u00a0JASWANTH,\r\n\r\nWelcome to Open",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T09:12:10.046693",
+    "sender": "communications@news.apilayer.com",
+    "subject": "Welcome to MediaStack\ud83d\udcf0, an APILayer Product! Your API Key is Inside \ud83c\udf89",
+    "email_text": "<https://app.news.apilayer.com/e/er?s=608&lid=76845&elqTrackId=CA2B9AE231F6FE61F799593D86BFD8AA&elq=8fbf1e91fb454f2894eef6e332d6093a&elqaid=59832&elqat=1&elqak=8AF52A0691308249C5EC3DC81D4A224D73418F63",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T09:12:10.503048",
+    "sender": "jobs-listings@linkedin.com",
+    "subject": "Swiggy is hiring a Junior Software Engineer",
+    "email_text": "Top job picks for you:     https://www.linkedin.com/comm/jobs/collections/recommended?origin=JYMBII_EMAIL&lgCta=eml-jymbii-bottom-see-all-jobs&lgTemp=jobs_jymbii_digest&lipi=urn%3Ali%3Apage%3Aemail_jo",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T09:12:10.975024",
+    "sender": "linkedin@em.linkedin.com",
+    "subject": "JASWANTH, thanks for being a valued member",
+    "email_text": "<!DOCTYPE html>\r\n<html>\r\n<head>\r\n</head>\r\n<body>\r\n\r\n<p><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n<html xmlns=\"http://www.w3.org/199",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T09:12:12.341485",
+    "sender": "linkedin@em.linkedin.com",
+    "subject": "JASWANTH, see who else is applying for Software Development Engineer, AI Automation, Prime Video",
+    "email_text": "<!DOCTYPE html>\r\n<html>\r\n<head>\r\n</head>\r\n<body>\r\n\r\n\r\n<p><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n<html lang=\"en\" style=\"width: 10",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  },
+  {
+    "timestamp": "2025-12-30T09:12:12.816366",
+    "sender": "learn@itr.mail.codecademy.com",
+    "subject": "Experience end-of-year savings",
+    "email_text": "\ud83c\udf89 It's our end-of-year sale \ud83c\udf89  \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \r\n\u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f ",
+    "intent": "Promotional/Notification",
+    "confidence": 1.0,
+    "generated_reply": "N/A (Promotional/Ignored)"
+  }
+]

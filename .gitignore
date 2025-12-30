@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+users.json
+*.zip
+extension.zip
+venv/
+.DS_Store
