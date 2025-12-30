@@ -1,4 +1,4 @@
-# IBM AI Email Agent (Submission)
+#AI Email Agent (Submission)
 
 ## Project Overview
 This project is an **Autonomous AI Email Agent** capable of managing your inbox intelligently. It automatically detects crucial emails (Meeting Requests, Support Queries) and ignores promotional spam. It then uses LLMs (Mistral-7B via OpenRouter) to draft professional replies in your tone.
