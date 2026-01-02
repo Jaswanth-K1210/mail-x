@@ -1,11 +1,11 @@
-const API_URL = "http://127.0.0.1:8000"; // Localhost for now
+const API_URL = "http://127.0.0.1:8000";
 
 document.addEventListener('DOMContentLoaded', async () => {
     // Check local storage for session
-    const storedEmail = await chrome.storage.local.get("email");
+    const stored = await chrome.storage.local.get("email");
 
-    if (storedEmail && storedEmail.email) {
-        showStatus(storedEmail.email);
+    if (stored && stored.email) {
+        showStatus(stored.email);
     } else {
         showLogin();
     }
@@ -25,6 +25,7 @@ async function handleSettings() {
     if (!stored.email) return;
 
     const interval = parseInt(document.getElementById('intervalSelect').value);
+
     setLoading(true);
     try {
         const res = await fetch(`${API_URL}/settings`, {
